@@ -17,3 +17,8 @@ Data Volume
 
 License
 CC 4.0
+
+Reference Sources
+* the basic strucuture of the sample given to us in Assignment 1: https://github.com/marla322/hkbu-big-data-media/blob/master/HW2/chengdu.ipynb
+* when solving the problem of decoding and encoding, referred to CSDN blogs: https://blog.csdn.net/zbrj12345/article/details/79911750?utm_source=blogxgwz7
+* when writing the csv file, referred to the help page of csv.reader and csv.writer: https://docs.python.org/2/library/csv.html#csv.reader
